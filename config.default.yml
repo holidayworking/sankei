@@ -1,0 +1,4 @@
+database: sqlite3:./db/sankei.db
+source:
+  feed: http://sankei.jp.msn.com/rss/news/flash.xml
+  css: .NewsTextFull
